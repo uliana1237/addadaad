@@ -92,7 +92,7 @@ cy# fopen = dlsym(RTLD_DEFAULT, "fopen")
 
 ## ▍ Telesphoreo
 
-![Тестовая картинка](/img/6.jpg)
+![Тестовая картинка](/img/6.png)
 
 
 Стоит пару слов сказать о закрытом проекте Telesphoreo, который ставил целью превратить iPhone в полноценную рабочую станцию Linux.
